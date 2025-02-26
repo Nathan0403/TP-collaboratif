@@ -17,8 +17,10 @@ Tapez le nom de l'entreprise
 
 ## Etape 4
 Inscrivez pour visualiser et personnaliser
+
 [lien vers la photo ](durable/capt4.png)
 
 
 Générez votre site
+
 [lien vers la photo ](durable/capt5.png)
